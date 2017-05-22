@@ -3,8 +3,8 @@ www.placeholder.com is een website van Noah Falan waar gebruikers kunnen kijken 
 De website is enigszins te vergelijken met ultra music festival of tomorowland maar toch anders omdat dit spesifiec over 1 DJ duo gaat.
 
 ### Uniek aan dit concept is: 
- * eerste u.s.p. (De site heeft een moderne styling, en )
- * tweede u.s.p. (vul hier in, waar jouw site door gaat opvallen, wat zal iedereen onthouden van jouw site?)
+ * eerste u.s.p. (De site heeft een moderne styling, en zal een kijk geven in het leven van het dj duo. )
+ * tweede u.s.p. (Het wordt een moderne site met met leuke effecten, daarnaast wordt er heel goed gebruik gemaakt van de corecte kleuren.)
 
 ---
 #### Milestones Fase 1
