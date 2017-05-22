@@ -1,9 +1,9 @@
 ##  sunnery james | ryan marciano 
-www.mijnliveomgeving.com is een website van (..jouw naam..) waar gebruikers kunnen (..nut gebruiker..) bedoeld voor (..doelgroep..)
-De website is enigszins te vergelijken met (..concurrentie1..) of (..concurrentie2..) maar toch anders omdat (..uniek aspect..)
+www.placeholder.com is een website van (..Noah Falan..) waar gebruikers kunnen (..kijken naar het leven van de dj's sunnery james en ryan marciano..) bedoeld voor (..iedereen die geintereseerd is in het dj duo..)
+De website is enigszins te vergelijken met (..ultra music festival..) of (..tomorowland..) maar toch anders omdat (..dit spesifiec over 1 DJ duo gaat..)
 
 ### Uniek aan dit concept is: 
- * eerste u.s.p. (vul hier in, waarin jouw site anders is dan alle anderen)
+ * eerste u.s.p. (De site heeft een moderne styling, en )
  * tweede u.s.p. (vul hier in, waar jouw site door gaat opvallen, wat zal iedereen onthouden van jouw site?)
 
 ---
